@@ -17,6 +17,7 @@ Shenandoah Municipal Airport KSDA, 2033 Manti Rd, Shenandoah, IA 51601
 * Nodaway Valley County Park
 
 [MY IMAGE](TEJ.jpeg)
+
 ---
 # Places to visit
 The table below describes 4 cities that I would recommend people to visit
@@ -30,4 +31,9 @@ The table below describes 4 cities that I would recommend people to visit
 
 ----
 # Quotes
+> It matters not what someone is born, but what they grow to be.
+-*J.K. Rowling*
+
+> Not all those who wander are lost.
+-*J.R.R. Tolkein*
 
