@@ -15,3 +15,5 @@ Shenandoah Municipal Airport KSDA, 2033 Manti Rd, Shenandoah, IA 51601
 * Glenn Miller Birthplace Society
 * Nodaway Valley Historical Museum
 * Nodaway Valley County Park
+
+[MY IMAGE](TEJ.jpeg)
