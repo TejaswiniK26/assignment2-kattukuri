@@ -11,3 +11,7 @@ Shenandoah Municipal Airport KSDA, 2033 Manti Rd, Shenandoah, IA 51601
  Continue straight onto W State St
  Turn right onto N 16th St/N Glenn Miller Ave
  Destination will be on the right
+
+* Glenn Miller Birthplace Society
+* Nodaway Valley Historical Museum
+* Nodaway Valley County Park
