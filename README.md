@@ -17,3 +17,13 @@ Shenandoah Municipal Airport KSDA, 2033 Manti Rd, Shenandoah, IA 51601
 * Nodaway Valley County Park
 
 [MY IMAGE](TEJ.jpeg)
+---
+# Places to visit
+The table below describes 4 cities that I would recommend people to visit
+
+|  Name of the City  |  Location  |  Time to spend  |
+|--------------------|------------|-----------------|
+|  Amsterdam         |Netherlands |  10hours        |
+|  Hyderabad         |Telangana   | 12hours         |
+|  Paris             |France      | 12hours         |
+|  Miami             |Florida     | 8 hours         |
