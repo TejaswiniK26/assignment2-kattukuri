@@ -37,3 +37,16 @@ The table below describes 4 cities that I would recommend people to visit
 > Not all those who wander are lost.
 -*J.R.R. Tolkein*
 
+----
+
+# Code Fencing
+> I have a main page (actually a JSP) with an iframe inside it as;
+<https://stackoverflow.com/questions/7551912/jquery-force-set-src-attribute-for-iframe>
+
+```
+$('iframe').attr('src', $('iframe').attr('src'));
+```
+<https://css-tricks.com/snippets/jquery/force-iframe-to-reload/>
+
+
+
